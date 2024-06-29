@@ -9,7 +9,7 @@
         android:id="@+id/studentNameTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Student Name: קרינאוי בהאא"
+        android:text="Homework Assignment 1\n:Krenawie Bahaa"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="parent"
